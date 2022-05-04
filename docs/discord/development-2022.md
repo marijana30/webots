@@ -703,3 +703,11 @@ I don't think so... Unless somebody around here as a backup of it...
 ##### amna 04/06/2022 06:06:47
 I need to add a robot which talks `@Mat198`
 
+##### Max\_K 04/21/2022 12:21:58
+Hello, we have released a ROS 2 package that enables to control the spot in webots.
+
+
+
+[https://github.com/MASKOR/webots\_ros2\_spot/](https://github.com/MASKOR/webots_ros2_spot/)
+> **Attachment**: [spot\_teleop.mp4](https://cdn.discordapp.com/attachments/565155651395780609/966675159937327104/spot_teleop.mp4)
+
